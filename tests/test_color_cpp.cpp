@@ -1,4 +1,4 @@
-// テスト
+// テスト（C++）
 #include <iostream>
 #include "../include/color.h"
 #include "../include/decoration.h"
